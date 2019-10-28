@@ -12,3 +12,5 @@ if (Number.isNaN(amount)) {
 } else {
     // write your code for making change here
 }
+
+console.log("\n quarters, dimes, nickels, pennies.")
